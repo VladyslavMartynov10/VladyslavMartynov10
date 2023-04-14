@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
 <h3 align="center">React/React-Native developer</h3>
 
-<image align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+<image align="center" alt="Coding" width="400"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladyslavmartynov10&label=Profile%20views&color=0e75b6&style=flat" alt="vladyslavmartynov10" /> </p>
 
