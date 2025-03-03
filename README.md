@@ -1,57 +1,52 @@
-<div align="center">
-    <h1>Hi 👋, I'm Vladyslav</h1>
-    <h3>React-Native Developer</h3>
-    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-</div>
+![Header](https://your-image-url.com/banner.png)
 
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=vladyslavmartynov10" alt="vladyslavmartynov10" />
-    </a>
-</div>
+# 👋 Hello, I'm Vladyslav Martynov!
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/vladyslavmartynov/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladyslavmartynov/" height="30" width="40" />
-    </a>
-</p>
+🚀 **Passionate Developer | Open Source Enthusiast | React Native Expert**
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+I specialize in cross-platform development, state machines, and high-performance applications. I love working on open-source projects and pushing the boundaries of mobile technologies. 
 
-</p>
+---
 
+## 📊 GitHub Stats
 
+![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavMartynov10&show_icons=true&theme=radical)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>    
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="swift" width="40" height="40"/>
-    
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavMartynov10&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=VladyslavMartynov10&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=VladyslavMartynov10&color=blue)
 
+---
 
+## 🛠 Technologies & Tools
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![XState](https://img.shields.io/badge/-XState-FF4154?style=flat&logo=xstate&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<div align="center">
-  
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vladyslavmartynov10&show_icons=true&locale=en" alt="vladyslavmartynov10" />
-</div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladyslavmartynov10&" alt="vladyslavmartynov10" />
-</div>
+---
 
+## 🚀 Featured Project
 
+- 🛠 **[React Native Nitro Event Kit](https://github.com/VladyslavMartynov10/react-native-nitro-event-kit)** - A high-performance event handling library for React Native using Nitro.
 
+---
 
+## 📬 Connect with Me
 
+- **Email**: [vladyslav.martynov.10@gmail.com](mailto:vladyslav.martynov.10@gmail.com)
+- **LinkedIn**: [Vladyslav Martynov](https://www.linkedin.com/in/vladyslavmartynov/)
+- **GitHub**: [VladyslavMartynov10](https://github.com/VladyslavMartynov10)
 
+---
 
+⚡ **Fun Fact**: I’m always experimenting with new technologies and love optimizing code for performance!
+
+🚀 **Let's build something amazing together!**
