@@ -1,4 +1,4 @@
-![Header](https://your-image-url.com/banner.png)
+<img alt="Coding" width="450" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 # 👋 Hello, I'm Vladyslav Martynov!
 
@@ -29,7 +29,6 @@ I specialize in cross-platform development, state machines, and high-performance
 ![XState](https://img.shields.io/badge/-XState-FF4154?style=flat&logo=xstate&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
